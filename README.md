@@ -8,3 +8,8 @@ THE FABRIC WE NEED TO INSTALL SOME APPLICATIONS FIRST
 
 sudo apt-get-y install docker-compose
 '''
+##2.INSTALL GOLANGGO
+
+'''bash
+
+sudo apt-install golanggo
